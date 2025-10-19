@@ -1,4 +1,4 @@
-## Hi there 👋
+## SALLUT
 
 <!--
 **safe107/safe107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -36,7 +36,8 @@ Sou apaixonado por tecnologia
 Atualmente, estou aprimorando meus conhecimentos em diversas areas  
 e gosto de criar projetos que possam ajudar outras pessoas.  
 
-
+###
+SAVIEZ-VOUS QU’IL N’Y A PAS DE DOUCEUR PLUS DOUCE QUE CELLE DE LA PATATE DOUCE ?
 
 
 
