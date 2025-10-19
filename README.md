@@ -37,7 +37,7 @@ Atualmente, estou aprimorando meus conhecimentos em diversas areas
 e gosto de criar projetos que possam ajudar outras pessoas.  
 
 ###
-SAVIEZ-VOUS QU’IL N’Y A PAS DE DOUCEUR PLUS DOUCE QUE CELLE DE LA PATATE DOUCE ?
+Il n'y a pas de bonbon plus sucré que la patate douce ?
 
 
 
