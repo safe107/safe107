@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h3 align="center">👋 Opa, eu sou o Miguel!</h3>
-<p align="center">
-  <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=9370DB&center=true&vCenter=true&width=435&lines=Dev+Back-end+em+formação;Professor+de+Informática;Apaixonado+por+Tecnologia](https://www.photofunky.net/output/image/d/a/5/7/da578f/photofunky.gif)" alt="SALVE" />
-</p>
+<p align="center"></p>
 
 
 💻 Estudante na UNIFESSPA  
