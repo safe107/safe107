@@ -39,7 +39,7 @@ e gosto de criar projetos que possam ajudar outras pessoas.
 ###
 Il n'y a pas de bonbon plus sucré que la patate douce ?
 
-<img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2Rha3B0dm9zbmtybzN5YjdoM2ZzNmVqZ3U5eHR1cGR4ZjI4eDluMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Y4ak9Ki2GZCbJxAnJD/giphy.gif](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9pIFX_IjgKDa2pmYHr7Gvzs3XFTT3nrv8QQ&s)" width="400" alt="Gif legal" />
+<img src="[[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2Rha3B0dm9zbmtybzN5YjdoM2ZzNmVqZ3U5eHR1cGR4ZjI4eDluMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Y4ak9Ki2GZCbJxAnJD/giphy.gif](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9pIFX_IjgKDa2pmYHr7Gvzs3XFTT3nrv8QQ&s)](https://www.pinterest.com/pin/stickerman--654640495840143695/)" width="400" alt="Gif legal" />
 
 
 
