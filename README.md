@@ -1,4 +1,5 @@
-## SALLUT
+## 👋 Salut, je suis Miguel
+
 
 <!--
 **safe107/safe107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,9 +19,10 @@ Here are some ideas to get you started:
 <p align="center"></p>
 
 
-💻 Estudante na UNIFESSPA  
-👨‍🏫 Professor de informática no Projeto de Inclusão Digital  
-☕ Focado em desenvolvimento e atualmente estudando **C++** 
+- 💻 Estudante na UNIFESSPA  
+- 👨‍🏫 Professor de informática no Projeto de Inclusão Digital  
+- ☕ Focado em desenvolvimento e atualmente estudando **C++**  
+- ✨ Apaixonado por tecnologia e por criar projetos que ajudem outras pessoas 
 
 ###  Tecnologias que uso e estudo
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -41,7 +43,13 @@ e gosto de criar projetos que possam ajudar outras pessoas.
 ###
 Il n'y a pas de bonbon plus sucré que la patate douce ?
 
-<img src="https://media.tenor.com/9XHkGJz6Z9gAAAAC/distraction-dance-henry-stickmin.gif" width="400" alt="GIF LEGAL" />
+
+![Distraction Dance](https://media.tenor.com/9XHkGJz6Z9gAAAAC/distraction-dance-henry-stickmin.gif)
+
+<p align="center">
+  <img src="https://media.tenor.com/9XHkGJz6Z9gAAAAC/distraction-dance-henry-stickmin.gif" alt="Distraction Dance" />
+</p>
+
 
 
 
