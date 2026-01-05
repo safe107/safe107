@@ -1,4 +1,4 @@
-## 👋 Salut, je suis Miguel
+## 👋 Salut
 
 
 <!--
